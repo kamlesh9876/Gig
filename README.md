@@ -3,27 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>GigFloww - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 2rem;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    code {
-      background-color: #eee;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-    }
-  </style>
 </head>
 <body>
 
